@@ -5,3 +5,7 @@ DevOps Culture
 	Communication
 	Honesty and openness
 	Embrace the failure
+---------------------------------
+	No Blame
+	Accountability
+	Grassroot Innovation
