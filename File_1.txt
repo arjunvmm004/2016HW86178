@@ -1,0 +1,7 @@
+The Advantages of the DevOps Approach
+
+	Smooth collaboration
+	Scalability
+	Flexibility
+	Reliability
+	Speed
