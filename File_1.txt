@@ -4,4 +4,29 @@ The Advantages of the DevOps Approach
 	Scalability
 	Flexibility
 	Reliability
-	Speed
+	The Advantages of the DevOps Approach
+
+        Smooth collaboration
+        Scalability
+        Flexibility
+        Reliability
+        Speed
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+File_1.txt[+] [dos] (01:21 29/06/2020)                                 7,2-9 All
+-- INSERT --
+Speed
